@@ -7,7 +7,7 @@ Major - (Stage) SubMajor . Minor
 ex
 
 Alpha Project:     0-α1.6    Version 0 Alpha 1.6
-Feature Complete:  1-fc     Version 1 Feature Complete
+Feature Complete:  1-fc      Version 1 Feature Complete
 Beta Project:      1-β4      Version 1 Beta 4
 Release Candidate: 5-rc2     Version 5 Release Candidate 2
 Stable:            1         Version 1
