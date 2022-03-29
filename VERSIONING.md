@@ -1,5 +1,7 @@
 # Versioning-Scheme
 
+This is a general guideline for all projects controlled by John Bradley (userjack6880) or part of the System Anomaly sphere of influence.
+
 ## Overview
 ```
 Major - (Stage) SubMajor . Minor
