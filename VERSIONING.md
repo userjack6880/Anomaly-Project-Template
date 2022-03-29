@@ -45,4 +45,4 @@ Minor versions are updates to submajor versions. Like submajor versions, these a
 - Stable code does not have minor versions.
 
 # Implementation
-This versioning system will be implemented on date of publish, and projects will be updated accordingly.
+This versioning system will be implemented on date of publish (29 March, 2022), and projects will be updated accordingly.
