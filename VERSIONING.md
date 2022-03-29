@@ -1,5 +1,4 @@
 # Versioning-Scheme
-I've never been happy with the fact that I don't have a proper versioning scheme. This is a guide mostly for myself, rather than the world, but it would help explain versioning.
 
 ## Overview
 ```
