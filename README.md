@@ -39,6 +39,8 @@ If you have a system configuration not listed, and would like to contribue this 
 
 [Cycle description] Versioning is under the Anomaly Versioning Scheme (2022), as outlined in `VERSIONING` under `docs`.
 
+# Support and Development
+
 # Contributing
 
 Public contributions are encouraged. Please review `CONTRIBUTING` under `docs` for contributing procedures. Additionally, please take a look at our `CODE_OF_CONDUCT`. By participating in this project you agree to abide by the Code of Conduct.
