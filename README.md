@@ -39,7 +39,13 @@ If you have a system configuration not listed, and would like to contribue this 
 
 [Cycle description] Versioning is under the Anomaly Versioning Scheme (2022), as outlined in `VERSIONING` under `docs`.
 
-# Support and Development
+# Support
+
+Support will be provided as outlined in the following schedule. For more details, see `SUPPORT`.
+
+| Version                       | Support Level    | Released       | End of Support | End of Life   |
+| ----------------------------- | ---------------- | -------------- | -------------- | ------------- |
+|                               |                  |                |                |               |
 
 # Contributing
 
