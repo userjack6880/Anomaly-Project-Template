@@ -19,9 +19,6 @@ A response should be recieved within 72 hours. If no response is given, please f
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version                    | Supported | End of Support |
+| -------------------------- | --------- | -------------- |
+| Version Number             | YES/NO    | DD Month YYYY  |
