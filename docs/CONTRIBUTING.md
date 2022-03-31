@@ -3,6 +3,8 @@
 
 ## **Bug Reporting**
 
+* **Please do not report security issues publically on GitHub!** For details, see `SECURITY`.
+
 * **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/[project_url]/issues).
 
 * If an open issue addressing the problem does not exist, [open a new one](https://github.com/[project_url]/issues/new). Be sure to include a title and clear description, and as much relevant information as possible, including error messages, screenshots, or configuration files. **Please sanitize any passwords or sensitive information**.
